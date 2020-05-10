@@ -8,6 +8,8 @@ npm i -g oversize-images-finder
 
 ## Usage
 ```
+$oversize-images-finder
+
 Options:
   --version       Show version number                                  [boolean]
   --url, -u       URL of page                                         [required]
